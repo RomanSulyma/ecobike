@@ -1,0 +1,3 @@
+E-BIKE Farad;30;22500;true;10000;rose;1745
+SPEEDELEC AirWheel;15;11200;false;11200;pink;419
+FOLDING BIKE Titan;24;7;16500;true;golden;1295
